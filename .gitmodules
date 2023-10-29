@@ -1,0 +1,3 @@
+[submodule "DiffSinger"]
+	path = DiffSinger
+	url = https://github.com/MoonInTheRiver/DiffSinger.git
