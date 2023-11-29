@@ -1,4 +1,5 @@
 matplotlib
+tensorflow
 librosa>=0.9.1
 tqdm
 pandas
