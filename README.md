@@ -1,6 +1,7 @@
 # Text To Song Generative System - Project "Vivy"
- [*Project Report*](./docs/ECE4424_CS4824%20Project%20Report.pdf)  
-
+This is course project from Virginia Tech ECE4424/CS 4824  
+ [*Project Report*](./docs/ECE4424_CS4824%20Project%20Report.pdf)
+ 
 ## Introduction
 In recent years, artificial intelligence has made significant strides in various domains, such as chatbot, self-driving, image generation, and music generation. However, in the field of art, especially in music, there is no generative model or multi-model system in research that can produce complete music from text. To accelerate the application of AI in the field of music, and to attempt to use AI to generate a complete piece of music, a text-to-song generative system is proposed in this paper.   
 In the project, the aim was to develop a complete text-to-song system where users can input lyrics, song style, BPM, and other information to obtain a fully AI-generated, complete piece of music with synthesized singing voice. This is to further accelerate the application of AI in the field of art. This novel project has not been implemented so far, thus was one of the reasons the project was chosen. Other reasons were to allow people who were previously unable to create music due to any lack of knowledge or skills can make the music they now desire. This would help accelerate new music and possible genres in the music industry due to the ease of making of music.  
