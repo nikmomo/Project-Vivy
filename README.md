@@ -30,8 +30,8 @@ pip install -r requirements.txt
 - **lyric_data_processing.ipynb**: Process all data and provide *filtered dataset* and *normalzied dataset*.
     - *normalized_output.csv*: Normalized output file that used for training and validating the models.
     - *output.csv*: Dataset with filtered and aligned data.
-- **model_training_RNN_LSTM.ipynb**: Training the model using RNN with LSTM.
-- **model_training_RNN_GRU.ipynb**: Training the model using RNN with GRU.
+- **model_training_LSTM.ipynb**: Training the model using LSTM.
+- **model_training_GRU.ipynb**: Training the model using GRU.
 - **model_training_Transformer.ipynb**: Training the model using Transformer.
 - **musicgen_dmeo.ipynb**: MusicGen demo from audioCraft.
 - **note_token_to_int.json**: The dictionary to convert notes to integers embedded format.
